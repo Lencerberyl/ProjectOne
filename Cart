@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>website design</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="main">
+          <nav>
+            <div class="logo">
+                <img src="sam.logo.png">
+            </div>
+            <div class="nav-links">
+                <ul>
+                    <li><a href="my website.html">Home</a></li>
+                    <li><a href="Phone">Phone</a></li>
+                    <li><a href="Accessories">Accessories</a></li>
+                    <li><a href="Cart">Cart</a></li>
+
+                </ul>
+            </div>
+          </nav>  
+          </html>
+        </div>
+    </body>
+</html>
